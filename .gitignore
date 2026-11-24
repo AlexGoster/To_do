@@ -2,3 +2,14 @@ todo.db
 __pycache__/
 .venv/
 .idea/
+
+# Local verification artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+*.db
+.env
+*.egg-info/
+build/
+dist/
