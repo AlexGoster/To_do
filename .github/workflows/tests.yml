@@ -24,4 +24,3 @@ jobs:
         run: python -m pip install -r requirements-dev.txt
       - name: Run regression tests
         run: python -m pytest -o addopts= -q
-
